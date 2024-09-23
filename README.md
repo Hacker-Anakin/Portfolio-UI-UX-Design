@@ -68,7 +68,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact me via [email@example.com](mailto:email@example.com).
+For any inquiries or feedback, please contact me via [cakely63@gmail.com](mailto:cakely63@gmail.com).
 
 ---
 
