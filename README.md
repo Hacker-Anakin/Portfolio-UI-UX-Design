@@ -2,7 +2,7 @@
 
 Welcome to **Portfolio UI-UX**, a modern and elegant personal portfolio website. This repository contains the source code for the portfolio site, developed using **Next.js** with **TypeScript** and styled using **Acternity UI**.
 
-![alt text]()
+![alt text](https://i.imgur.com/01UsBIm.png)
 
 ## Table of Contents
 
